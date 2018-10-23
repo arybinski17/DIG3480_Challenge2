@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - groundcheck
+  - Coins
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - groundcheck
+  - allGround
+  - Goomba
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3984010583
+    locked: 0
+  - name: Clouds
+    uniqueID: 3077976359
+    locked: 0
+  - name: Player
+    uniqueID: 3132147887
+    locked: 0
+  - name: Coin Box
+    uniqueID: 2271968687
+    locked: 0
+  - name: Coins
+    uniqueID: 3692844247
+    locked: 0
+  - name: Goomba
+    uniqueID: 2259747
+    locked: 0
+  - name: Tunnel
+    uniqueID: 1925678361
+    locked: 0
+  - name: Ground
+    uniqueID: 396420927
+    locked: 0
